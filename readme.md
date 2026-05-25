@@ -43,7 +43,7 @@ object-fit: cover
 Container-based design
 How to Run
 Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://shvam-kumar.github.io/login-page-using-flex/?#)
 Open the project folder
 cd your-repo-name
 Run the project
